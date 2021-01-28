@@ -6,6 +6,7 @@ Each "boid" is given 3 simple rules:<br/>
 3. Separate: Do not collide with your neighbours.
 Through a few simple rules, seemingly complex behaviour can emerge.<br/>
 <br/>
+
 This application models behaviour as outline by Craig Reynolds in his [1986 Paper](http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/).
 
 ## Demo
